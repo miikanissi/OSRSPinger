@@ -1,2 +1,2 @@
 # OSRSPinger
-Shell script to ping Oldschool Runescape servers on Linux
+Shell script to ping Oldschool Runescape servers on Linux.
